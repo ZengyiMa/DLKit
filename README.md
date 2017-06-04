@@ -4,7 +4,10 @@
 这是在个人 iOS 工作中积累下来的代码。做一个个人收集。
 
 ## iOSCategory
-[iOSCategory](https://github.com/ZengyiMa/iOSCategories) 里面收集了常用的分类
+[iOSCategory](https://github.com/ZengyiMa/iOSCategories) 里面收集了常用的分类。
+
+## DLNetworking 
+[DLNetworking](https://github.com/ZengyiMa/DLNetworking) 是我做的一款网络请求库，可以支持 promise 方式的链式请求，已经我希望的一些特性。
 
 
 
