@@ -7,7 +7,10 @@
 [iOSCategory](https://github.com/ZengyiMa/iOSCategories) 里面收集了常用的分类。
 
 ## DLNetworking 
-[DLNetworking](https://github.com/ZengyiMa/DLNetworking) 是我做的一款网络请求库，可以支持 promise 方式的链式请求，已经我希望的一些特性。
+[DLNetworking](https://github.com/ZengyiMa/DLNetworking) 是我做的一款网络请求库，可以支持 promise 方式的链式请求，以及我希望的一些特性。
+
+## ELStoreKit 
+[ELStoreKit](https://github.com/ZengyiMa/ELStoreKit) 一个轻量级的内购封装库。
 
 
 
