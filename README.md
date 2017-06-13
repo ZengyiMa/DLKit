@@ -12,6 +12,9 @@
 ## ELStoreKit 
 [ELStoreKit](https://github.com/ZengyiMa/ELStoreKit) 一个轻量级的内购封装库。
 
+## DLPlayer 
+[DLPlayer](https://github.com/ZengyiMa/DLPlayer) 基于 AVPlayer 封装的一个视频播放器。
+
 
 
 
